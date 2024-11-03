@@ -1,0 +1,4 @@
+w1	doc1.txt-index[5,1],doc2.txt-index[3]
+w2	doc1.txt-index[2],doc2.txt-index[1]
+w3	doc1.txt-index[3]
+w4	doc1.txt-index[4],doc2.txt-index[2]
